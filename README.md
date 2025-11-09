@@ -14,7 +14,17 @@ A modern, responsive music player website inspired by Spotify. Built with HTML, 
 ## Demo
 <img width="1098" height="844" alt="image" src="https://github.com/user-attachments/assets/d095b795-77b2-4795-a282-f4d13f5ae53f" />
 
+## 🏷️ Tags
+- HTML5
+- CSS3
+- JavaScript
+- Music Player
+- Frontend Project
+- Spotify Clone
+- Flexbox / Grid Layout
+- Modern Web Design
 
+  
 ## Technologies Used
 
 - **HTML5**: Semantic structure and audio elements
